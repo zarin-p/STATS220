@@ -12,6 +12,10 @@
 Here, I will add all the projects that I have worked on for **`STATS 220`**. In total, there will be ***five*** different projects that I will be working on. As I progress with them, I will list them down.
 1. **<ins>Meme Project</ins>**
 > I loved the theme! We had to create a meme using `RStudio`, as well as an animation gif for the same. We were also tasked with creating an HTML Page using `RMarkdown` and bits of `CSS` programming. It was a fun experience.
+
+![](https://media.discordapp.net/attachments/1207021480295268385/1216977221496082490/my_gif.gif?ex=6602595b&is=65efe45b&hm=0a836e212f591863242da9f511ef8c184bca5d1c9d459763a0da74fa92897e62&=&width=435&height=565) 
+
+
 2. Project 2
 3. Project 3
 4. Project 4
